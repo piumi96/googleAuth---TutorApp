@@ -1,0 +1,31 @@
+[
+    {
+        "imgUrl":"https://peopledotcom.files.wordpress.com/2016/12/jamie-oliver.jpg?crop=0px%2C0px%2C1412px%2C1412px&resize=1200%2C1200",
+        "name":"Buddhika Chathuranga",
+        "location":"Rathnapura"
+    },
+
+    {
+        "imgUrl":"http://www.trendingtopmost.com/wp-content/uploads/2017/02/Mario-Lopez-Top-10-People-Who-are-Famous-Only-for-Their-Looks-in.jpg",
+        "name":"Rangana Udara",
+        "location":"Rathnapura"
+    },
+
+    {
+        "imgUrl":"https://www.theladders.com/wp-content/uploads/Mentally_Stron_040418-800x450.jpg",
+        "name":"Geethya Mayanshi",
+        "location":"Gampaha"
+    },
+
+    {
+        "imgUrl":"https://www.epr.co.uk/uploads/_landscapeThumb/people-lovisa-arvidsson-kvissberg2.JPG",
+        "name":"Piumi Dilshara",
+        "lcation":"Colombo"
+    },
+
+    {
+        "imgUrl":"https://greatergood.berkeley.edu/images/made/images/uploads/dsmileAAF_376_250_s_c1.jpg",
+        "name":"Nayani",
+        "lcation":"Kegalle"
+    }
+]
